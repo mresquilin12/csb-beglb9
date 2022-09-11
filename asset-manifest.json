@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-beglb9/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://.github.io/csb-beglb9/static/js/main.9516b0fa.chunk.js",
-    "main.js.map": "https://.github.io/csb-beglb9/static/js/main.9516b0fa.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-beglb9/static/js/runtime-main.381339a9.js",
-    "runtime-main.js.map": "https://.github.io/csb-beglb9/static/js/runtime-main.381339a9.js.map",
-    "static/js/2.3186d97d.chunk.js": "https://.github.io/csb-beglb9/static/js/2.3186d97d.chunk.js",
-    "static/js/2.3186d97d.chunk.js.map": "https://.github.io/csb-beglb9/static/js/2.3186d97d.chunk.js.map",
-    "index.html": "https://.github.io/csb-beglb9/index.html",
-    "static/css/main.f29ae65a.chunk.css.map": "https://.github.io/csb-beglb9/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.3186d97d.chunk.js.LICENSE.txt": "https://.github.io/csb-beglb9/static/js/2.3186d97d.chunk.js.LICENSE.txt"
+    "main.css": "https://mresquilin12.github.io/csb-beglb9/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mresquilin12.github.io/csb-beglb9/static/js/main.9516b0fa.chunk.js",
+    "main.js.map": "https://mresquilin12.github.io/csb-beglb9/static/js/main.9516b0fa.chunk.js.map",
+    "runtime-main.js": "https://mresquilin12.github.io/csb-beglb9/static/js/runtime-main.25a1c36c.js",
+    "runtime-main.js.map": "https://mresquilin12.github.io/csb-beglb9/static/js/runtime-main.25a1c36c.js.map",
+    "static/js/2.75f2fc5a.chunk.js": "https://mresquilin12.github.io/csb-beglb9/static/js/2.75f2fc5a.chunk.js",
+    "static/js/2.75f2fc5a.chunk.js.map": "https://mresquilin12.github.io/csb-beglb9/static/js/2.75f2fc5a.chunk.js.map",
+    "index.html": "https://mresquilin12.github.io/csb-beglb9/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mresquilin12.github.io/csb-beglb9/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.75f2fc5a.chunk.js.LICENSE.txt": "https://mresquilin12.github.io/csb-beglb9/static/js/2.75f2fc5a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.381339a9.js",
-    "static/js/2.3186d97d.chunk.js",
+    "static/js/runtime-main.25a1c36c.js",
+    "static/js/2.75f2fc5a.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
     "static/js/main.9516b0fa.chunk.js"
   ]
